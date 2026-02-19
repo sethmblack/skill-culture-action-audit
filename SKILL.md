@@ -4,7 +4,7 @@ description: Assess whether an organization's stated culture matches its actual 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3740
+  version: 1.0.3741
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - comedy
